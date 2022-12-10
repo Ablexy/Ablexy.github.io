@@ -2,7 +2,7 @@
 My pages
 introduce my pages
 GitHub虽然不是一个传统的博客托管站点，但已成为程序员写博客的最爱，下面介绍几种在github上写博客的方法.
-
+![img.png](img.png)
 1. Github pages
 
 github提供了pages功能, 分别是user pages和project pages, 区别如下:
